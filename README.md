@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Software Engineering at The African Leadership University
 - 👯 I’m looking to collaborate on any Projects involving mostly JavaScript,open-source project/ hackathons 
-- 📫 How to reach me: h.tuombe@alustudent.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact : I like memes
 
