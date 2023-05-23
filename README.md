@@ -13,4 +13,4 @@
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriettetuombe&langs_count=&&layout=compact" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/henriettetuombe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriettetuombe)](https://github.com/henriettetuombe/github-readme-stats)
