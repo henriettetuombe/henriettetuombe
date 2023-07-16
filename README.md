@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Software Engineering at The African Leadership University
+- 🌱 I’m currently learning Software Engineering 
 - 👯 I’m looking to collaborate on any Projects involving mostly JavaScript,open-source project/ hackathons 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact : I like memes
