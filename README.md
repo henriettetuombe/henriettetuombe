@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Software Engineering 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact : I like memes
+- 🌱  Software Engineering 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=henriettetuombe&show_icons=true&layout=compact" />
