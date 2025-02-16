@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBawtA_J2tN9wZBs6UU5L7A09TWpzi-JkAg&usqp=CAU">
 
-## 👋 Hi, I’m Henriette Tuombe @henriettetuombe
+## 👋 Hi, I’m Henriette Tuombe
 - ### 👀 I’m interested in Full Stack Development
 - ### 🌱 I’m currently learning Foundations of Computer Science and Software Engineering - WebStack
 - ### 💞️ I’m looking to collaborate on any open-source projects
@@ -55,20 +55,5 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/LongMakerGutaja" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Long Maker Long Deng" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/long-maker-long-deng-478124177/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Long Maker Long Deng" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@l.deng_74356" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Long Maker Long Deng" height="30" width="40" />
   </a>
 </p>
